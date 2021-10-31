@@ -1,0 +1,40 @@
+body {
+    background-color: #393E46;
+    margin: 0;
+}
+
+h1 {
+    text-shadow: 5px 0 #232931;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+
+img {
+    width: 80%;
+}
+
+.header {
+    font-size: 2rem;
+    background-color: rgb(79, 58, 99);
+    color: violet;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    padding: 1.5rem;
+    color: rgb(11, 8, 133);
+    margin: auto;
+}
+
+
+
+
