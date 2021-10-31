@@ -7,6 +7,10 @@ h1 {
     text-shadow: 5px 0 #232931;
 }
 
+script {
+    width: 0;
+}
+
 h2 {
     font-family: 'Lobster', cursive;
     color: #4ECCA3;
@@ -17,13 +21,15 @@ img {
     width: 80%;
 }
 
-.header {
+.container {
     font-size: 2rem;
     background-color: rgb(79, 58, 99);
     color: violet;
     width: 90%;
+    min-height: 100vh;
     margin: auto;
     padding: 20px;
+    margin-bottom: 0;
     font-family: 'Lobster', cursive;
     text-align: center;
 }
